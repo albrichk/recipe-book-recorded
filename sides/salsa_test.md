@@ -2,6 +2,7 @@
 
 - Tomato
 - Onion
+- spices
 
 # Instructions
 
